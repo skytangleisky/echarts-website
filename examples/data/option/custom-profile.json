@@ -1,0 +1,1159 @@
+{
+  "animation": false,
+  "darkMode": true,
+  "color": [
+    "#4992ff",
+    "#7cffb2",
+    "#fddd60",
+    "#ff6e76",
+    "#58d9f9",
+    "#05c091",
+    "#ff8a45",
+    "#8d48e3",
+    "#dd79ff"
+  ],
+  "backgroundColor": "#100C2A",
+  "textStyle": {
+    "color": "#B9B8CE",
+    "fontFamily": "sans-serif",
+    "fontSize": 12,
+    "fontStyle": "normal",
+    "fontWeight": "normal"
+  },
+  "timeAxis": {
+    "axisLine": {
+      "lineStyle": {
+        "color": "#B9B8CE"
+      }
+    },
+    "splitLine": {
+      "lineStyle": {
+        "color": "#484753"
+      }
+    },
+    "splitArea": {
+      "areaStyle": {
+        "color": [
+          "rgba(255,255,255,0.02)",
+          "rgba(255,255,255,0.05)"
+        ]
+      }
+    },
+    "minorSplitLine": {
+      "lineStyle": {
+        "color": "#20203B"
+      }
+    }
+  },
+  "logAxis": {
+    "axisLine": {
+      "lineStyle": {
+        "color": "#B9B8CE"
+      }
+    },
+    "splitLine": {
+      "lineStyle": {
+        "color": "#484753"
+      }
+    },
+    "splitArea": {
+      "areaStyle": {
+        "color": [
+          "rgba(255,255,255,0.02)",
+          "rgba(255,255,255,0.05)"
+        ]
+      }
+    },
+    "minorSplitLine": {
+      "lineStyle": {
+        "color": "#20203B"
+      }
+    }
+  },
+  "valueAxis": {
+    "axisLine": {
+      "lineStyle": {
+        "color": "#B9B8CE"
+      }
+    },
+    "splitLine": {
+      "lineStyle": {
+        "color": "#484753"
+      }
+    },
+    "splitArea": {
+      "areaStyle": {
+        "color": [
+          "rgba(255,255,255,0.02)",
+          "rgba(255,255,255,0.05)"
+        ]
+      }
+    },
+    "minorSplitLine": {
+      "lineStyle": {
+        "color": "#20203B"
+      }
+    }
+  },
+  "categoryAxis": {
+    "axisLine": {
+      "lineStyle": {
+        "color": "#B9B8CE"
+      }
+    },
+    "splitLine": {
+      "lineStyle": {
+        "color": "#484753"
+      },
+      "show": false
+    },
+    "splitArea": {
+      "areaStyle": {
+        "color": [
+          "rgba(255,255,255,0.02)",
+          "rgba(255,255,255,0.05)"
+        ]
+      }
+    },
+    "minorSplitLine": {
+      "lineStyle": {
+        "color": "#20203B"
+      }
+    }
+  },
+  "line": {
+    "symbol": "circle"
+  },
+  "graph": {
+    "color": [
+      "#4992ff",
+      "#7cffb2",
+      "#fddd60",
+      "#ff6e76",
+      "#58d9f9",
+      "#05c091",
+      "#ff8a45",
+      "#8d48e3",
+      "#dd79ff"
+    ]
+  },
+  "gauge": {
+    "title": {
+      "color": "#B9B8CE"
+    },
+    "axisLine": {
+      "lineStyle": {
+        "color": [
+          [
+            1,
+            "rgba(207,212,219,0.2)"
+          ]
+        ]
+      }
+    },
+    "axisLabel": {
+      "color": "#B9B8CE"
+    },
+    "detail": {
+      "color": "#EEF1FA"
+    }
+  },
+  "candlestick": {
+    "itemStyle": {
+      "color": "#f64e56",
+      "color0": "#54ea92",
+      "borderColor": "#f64e56",
+      "borderColor0": "#54ea92"
+    }
+  },
+  "colorBy": "series",
+  "gradientColor": [
+    "#f6efa6",
+    "#d88273",
+    "#bf444c"
+  ],
+  "aria": {
+    "decal": {
+      "decals": [
+        {
+          "color": "rgba(0, 0, 0, 0.2)",
+          "dashArrayX": [
+            1,
+            0
+          ],
+          "dashArrayY": [
+            2,
+            5
+          ],
+          "symbolSize": 1,
+          "rotation": 0.5235987755982988
+        },
+        {
+          "color": "rgba(0, 0, 0, 0.2)",
+          "symbol": "circle",
+          "dashArrayX": [
+            [
+              8,
+              8
+            ],
+            [
+              0,
+              8,
+              8,
+              0
+            ]
+          ],
+          "dashArrayY": [
+            6,
+            0
+          ],
+          "symbolSize": 0.8
+        },
+        {
+          "color": "rgba(0, 0, 0, 0.2)",
+          "dashArrayX": [
+            1,
+            0
+          ],
+          "dashArrayY": [
+            4,
+            3
+          ],
+          "rotation": -0.7853981633974483
+        },
+        {
+          "color": "rgba(0, 0, 0, 0.2)",
+          "dashArrayX": [
+            [
+              6,
+              6
+            ],
+            [
+              0,
+              6,
+              6,
+              0
+            ]
+          ],
+          "dashArrayY": [
+            6,
+            0
+          ]
+        },
+        {
+          "color": "rgba(0, 0, 0, 0.2)",
+          "dashArrayX": [
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              6
+            ]
+          ],
+          "dashArrayY": [
+            1,
+            0,
+            6,
+            0
+          ],
+          "rotation": 0.7853981633974483
+        },
+        {
+          "color": "rgba(0, 0, 0, 0.2)",
+          "symbol": "triangle",
+          "dashArrayX": [
+            [
+              9,
+              9
+            ],
+            [
+              0,
+              9,
+              9,
+              0
+            ]
+          ],
+          "dashArrayY": [
+            7,
+            2
+          ],
+          "symbolSize": 0.75
+        }
+      ]
+    }
+  },
+  "stateAnimation": {
+    "duration": 300,
+    "easing": "cubicOut"
+  },
+  "animationDuration": 1000,
+  "animationDurationUpdate": 500,
+  "animationEasing": "cubicInOut",
+  "animationEasingUpdate": "cubicInOut",
+  "animationThreshold": 2000,
+  "progressiveThreshold": 3000,
+  "progressive": 400,
+  "hoverLayerThreshold": 3000,
+  "useUTC": false,
+  "title": [
+    {
+      "text": "Profile",
+      "left": "center",
+      "padding": 15,
+      "textStyle": {
+        "color": "#EEF1FA",
+        "fontSize": 18,
+        "fontWeight": "bold"
+      },
+      "subtextStyle": {
+        "color": "#B9B8CE",
+        "fontSize": 12
+      },
+      "z": 6,
+      "show": true,
+      "target": "blank",
+      "subtext": "",
+      "subtarget": "blank",
+      "top": 0,
+      "backgroundColor": "rgba(0,0,0,0)",
+      "borderColor": "#ccc",
+      "borderWidth": 0,
+      "itemGap": 10,
+      "right": null
+    }
+  ],
+  "axisPointer": [
+    {
+      "lineStyle": {
+        "color": "#817f91",
+        "width": 1,
+        "type": "dashed"
+      },
+      "crossStyle": {
+        "color": "#817f91"
+      },
+      "label": {
+        "color": "#fff",
+        "show": true,
+        "formatter": null,
+        "precision": "auto",
+        "margin": 3,
+        "padding": [
+          5,
+          7,
+          5,
+          7
+        ],
+        "backgroundColor": "auto",
+        "borderColor": null,
+        "borderWidth": 0,
+        "borderRadius": 3
+      },
+      "show": "auto",
+      "z": 50,
+      "type": "line",
+      "snap": false,
+      "triggerTooltip": true,
+      "value": null,
+      "status": null,
+      "link": [],
+      "animation": null,
+      "animationDurationUpdate": 200,
+      "shadowStyle": {
+        "color": "rgba(210,219,238,0.2)"
+      },
+      "handle": {
+        "show": false,
+        "icon": "M10.7,11.9v-1.3H9.3v1.3c-4.9,0.3-8.8,4.4-8.8,9.4c0,5,3.9,9.1,8.8,9.4h1.3c4.9-0.3,8.8-4.4,8.8-9.4C19.5,16.3,15.6,12.2,10.7,11.9z M13.3,24.4H6.7v-1.2h6.6z M13.3,22H6.7v-1.2h6.6z M13.3,19.6H6.7v-1.2h6.6z",
+        "size": 45,
+        "margin": 50,
+        "color": "#333",
+        "shadowBlur": 3,
+        "shadowColor": "#aaa",
+        "shadowOffsetX": 0,
+        "shadowOffsetY": 2,
+        "throttle": 40
+      }
+    }
+  ],
+  "tooltip": [
+    {
+      "formatter": {},
+      "z": 60,
+      "show": true,
+      "showContent": true,
+      "trigger": "item",
+      "triggerOn": "mousemove|click",
+      "alwaysShowContent": false,
+      "displayMode": "single",
+      "renderMode": "auto",
+      "confine": null,
+      "showDelay": 0,
+      "hideDelay": 100,
+      "transitionDuration": 0.4,
+      "enterable": false,
+      "backgroundColor": "#fff",
+      "shadowBlur": 10,
+      "shadowColor": "rgba(0, 0, 0, .2)",
+      "shadowOffsetX": 1,
+      "shadowOffsetY": 2,
+      "borderRadius": 4,
+      "borderWidth": 1,
+      "padding": null,
+      "extraCssText": "",
+      "axisPointer": {
+        "type": "line",
+        "axis": "auto",
+        "animation": "auto",
+        "animationDurationUpdate": 200,
+        "animationEasingUpdate": "exponentialOut",
+        "crossStyle": {
+          "color": "#999",
+          "width": 1,
+          "type": "dashed",
+          "textStyle": {}
+        }
+      },
+      "textStyle": {
+        "color": "#666",
+        "fontSize": 14
+      }
+    }
+  ],
+  "yAxis": [
+    {
+      "data": [
+        "categoryA",
+        "categoryB",
+        "categoryC"
+      ],
+      "axisLine": {
+        "lineStyle": {
+          "color": "#B9B8CE",
+          "width": 1,
+          "type": "solid"
+        },
+        "show": true,
+        "onZero": true,
+        "onZeroAxisIndex": null,
+        "symbol": [
+          "none",
+          "none"
+        ],
+        "symbolSize": [
+          10,
+          15
+        ]
+      },
+      "splitLine": {
+        "lineStyle": {
+          "color": "#484753",
+          "width": 1,
+          "type": "solid"
+        },
+        "show": false
+      },
+      "splitArea": {
+        "areaStyle": {
+          "color": [
+            "rgba(255,255,255,0.02)",
+            "rgba(255,255,255,0.05)"
+          ]
+        },
+        "show": false
+      },
+      "minorSplitLine": {
+        "lineStyle": {
+          "color": "#20203B"
+        }
+      },
+      "boundaryGap": true,
+      "deduplication": null,
+      "axisTick": {
+        "alignWithLabel": false,
+        "interval": "auto",
+        "show": true,
+        "inside": false,
+        "length": 5,
+        "lineStyle": {
+          "width": 1
+        }
+      },
+      "axisLabel": {
+        "interval": "auto",
+        "show": true,
+        "inside": false,
+        "rotate": 0,
+        "showMinLabel": null,
+        "showMaxLabel": null,
+        "margin": 8,
+        "fontSize": 12
+      },
+      "show": true,
+      "z": 0,
+      "inverse": false,
+      "name": "",
+      "nameLocation": "end",
+      "nameRotate": null,
+      "nameTruncate": {
+        "maxWidth": null,
+        "ellipsis": "...",
+        "placeholder": "."
+      },
+      "nameTextStyle": {},
+      "nameGap": 15,
+      "silent": false,
+      "triggerEvent": false,
+      "tooltip": {
+        "show": false
+      },
+      "axisPointer": {},
+      "offset": 0,
+      "type": "category"
+    }
+  ],
+  "xAxis": [
+    {
+      "min": 1646245150130,
+      "scale": true,
+      "axisLabel": {
+        "formatter": {},
+        "show": true,
+        "inside": false,
+        "rotate": 0,
+        "showMinLabel": null,
+        "showMaxLabel": null,
+        "margin": 8,
+        "fontSize": 12
+      },
+      "axisLine": {
+        "lineStyle": {
+          "color": "#B9B8CE",
+          "width": 1,
+          "type": "solid"
+        },
+        "show": "auto",
+        "onZero": true,
+        "onZeroAxisIndex": null,
+        "symbol": [
+          "none",
+          "none"
+        ],
+        "symbolSize": [
+          10,
+          15
+        ]
+      },
+      "splitLine": {
+        "lineStyle": {
+          "color": "#484753",
+          "width": 1,
+          "type": "solid"
+        },
+        "show": true
+      },
+      "splitArea": {
+        "areaStyle": {
+          "color": [
+            "rgba(255,255,255,0.02)",
+            "rgba(255,255,255,0.05)"
+          ]
+        },
+        "show": false
+      },
+      "minorSplitLine": {
+        "lineStyle": {
+          "color": "#20203B",
+          "width": 1
+        },
+        "show": false
+      },
+      "boundaryGap": [
+        0,
+        0
+      ],
+      "axisTick": {
+        "show": "auto",
+        "inside": false,
+        "length": 5,
+        "lineStyle": {
+          "width": 1
+        }
+      },
+      "splitNumber": 5,
+      "minorTick": {
+        "show": false,
+        "splitNumber": 5,
+        "length": 3,
+        "lineStyle": {}
+      },
+      "show": true,
+      "z": 0,
+      "inverse": false,
+      "name": "",
+      "nameLocation": "end",
+      "nameRotate": null,
+      "nameTruncate": {
+        "maxWidth": null,
+        "ellipsis": "...",
+        "placeholder": "."
+      },
+      "nameTextStyle": {},
+      "nameGap": 15,
+      "silent": false,
+      "triggerEvent": false,
+      "tooltip": {
+        "show": false
+      },
+      "axisPointer": {},
+      "offset": 0,
+      "type": "value"
+    }
+  ],
+  "grid": [
+    {
+      "height": 300,
+      "show": false,
+      "z": 0,
+      "left": "10%",
+      "top": 60,
+      "right": "10%",
+      "containLabel": false,
+      "backgroundColor": "rgba(0,0,0,0)",
+      "borderWidth": 1,
+      "borderColor": "#ccc"
+    }
+  ],
+  "series": [
+    {
+      "type": "custom",
+      "renderItem": {},
+      "itemStyle": {
+        "opacity": 0.8
+      },
+      "encode": {
+        "x": [
+          1,
+          2
+        ],
+        "y": 0
+      },
+      "data": [
+        {
+          "name": "Nodes",
+          "value": [
+            0,
+            1646245150130,
+            1646245155305,
+            5175
+          ],
+          "itemStyle": {
+            "color": "#75d874"
+          }
+        },
+        {
+          "name": "Documents",
+          "value": [
+            0,
+            1646245156670,
+            1646245158609,
+            1939
+          ],
+          "itemStyle": {
+            "color": "#bd6d6c"
+          }
+        },
+        {
+          "name": "Documents",
+          "value": [
+            0,
+            1646245158874,
+            1646245162578,
+            3704
+          ],
+          "itemStyle": {
+            "color": "#bd6d6c"
+          }
+        },
+        {
+          "name": "Listeners",
+          "value": [
+            0,
+            1646245162633,
+            1646245166606,
+            3973
+          ],
+          "itemStyle": {
+            "color": "#e0bc78"
+          }
+        },
+        {
+          "name": "GPU Memory",
+          "value": [
+            0,
+            1646245167658,
+            1646245169375,
+            1717
+          ],
+          "itemStyle": {
+            "color": "#dc77dc"
+          }
+        },
+        {
+          "name": "GPU Memory",
+          "value": [
+            0,
+            1646245170328,
+            1646245176134,
+            5806
+          ],
+          "itemStyle": {
+            "color": "#dc77dc"
+          }
+        },
+        {
+          "name": "GPU Memory",
+          "value": [
+            0,
+            1646245176235,
+            1646245178941,
+            2706
+          ],
+          "itemStyle": {
+            "color": "#dc77dc"
+          }
+        },
+        {
+          "name": "Listeners",
+          "value": [
+            0,
+            1646245179104,
+            1646245186162,
+            7058
+          ],
+          "itemStyle": {
+            "color": "#e0bc78"
+          }
+        },
+        {
+          "name": "Documents",
+          "value": [
+            0,
+            1646245186499,
+            1646245195028,
+            8529
+          ],
+          "itemStyle": {
+            "color": "#bd6d6c"
+          }
+        },
+        {
+          "name": "Documents",
+          "value": [
+            0,
+            1646245195632,
+            1646245205439,
+            9807
+          ],
+          "itemStyle": {
+            "color": "#bd6d6c"
+          }
+        },
+        {
+          "name": "Nodes",
+          "value": [
+            1,
+            1646245150130,
+            1646245151618,
+            1488
+          ],
+          "itemStyle": {
+            "color": "#75d874"
+          }
+        },
+        {
+          "name": "Listeners",
+          "value": [
+            1,
+            1646245153047,
+            1646245157382,
+            4335
+          ],
+          "itemStyle": {
+            "color": "#e0bc78"
+          }
+        },
+        {
+          "name": "Nodes",
+          "value": [
+            1,
+            1646245157823,
+            1646245164270,
+            6447
+          ],
+          "itemStyle": {
+            "color": "#75d874"
+          }
+        },
+        {
+          "name": "Listeners",
+          "value": [
+            1,
+            1646245164819,
+            1646245173640,
+            8821
+          ],
+          "itemStyle": {
+            "color": "#e0bc78"
+          }
+        },
+        {
+          "name": "Listeners",
+          "value": [
+            1,
+            1646245174597,
+            1646245183501,
+            8904
+          ],
+          "itemStyle": {
+            "color": "#e0bc78"
+          }
+        },
+        {
+          "name": "GPU",
+          "value": [
+            1,
+            1646245184880,
+            1646245189574,
+            4694
+          ],
+          "itemStyle": {
+            "color": "#72b362"
+          }
+        },
+        {
+          "name": "GPU",
+          "value": [
+            1,
+            1646245190755,
+            1646245195890,
+            5135
+          ],
+          "itemStyle": {
+            "color": "#72b362"
+          }
+        },
+        {
+          "name": "Listeners",
+          "value": [
+            1,
+            1646245197419,
+            1646245202269,
+            4850
+          ],
+          "itemStyle": {
+            "color": "#e0bc78"
+          }
+        },
+        {
+          "name": "GPU Memory",
+          "value": [
+            1,
+            1646245203990,
+            1646245204311,
+            321
+          ],
+          "itemStyle": {
+            "color": "#dc77dc"
+          }
+        },
+        {
+          "name": "Documents",
+          "value": [
+            1,
+            1646245206094,
+            1646245209645,
+            3551
+          ],
+          "itemStyle": {
+            "color": "#bd6d6c"
+          }
+        },
+        {
+          "name": "GPU",
+          "value": [
+            2,
+            1646245150130,
+            1646245159823,
+            9693
+          ],
+          "itemStyle": {
+            "color": "#72b362"
+          }
+        },
+        {
+          "name": "GPU",
+          "value": [
+            2,
+            1646245160351,
+            1646245169204,
+            8853
+          ],
+          "itemStyle": {
+            "color": "#72b362"
+          }
+        },
+        {
+          "name": "GPU Memory",
+          "value": [
+            2,
+            1646245169763,
+            1646245177258,
+            7495
+          ],
+          "itemStyle": {
+            "color": "#dc77dc"
+          }
+        },
+        {
+          "name": "GPU",
+          "value": [
+            2,
+            1646245179177,
+            1646245182369,
+            3192
+          ],
+          "itemStyle": {
+            "color": "#72b362"
+          }
+        },
+        {
+          "name": "Listeners",
+          "value": [
+            2,
+            1646245183141,
+            1646245187692,
+            4551
+          ],
+          "itemStyle": {
+            "color": "#e0bc78"
+          }
+        },
+        {
+          "name": "GPU",
+          "value": [
+            2,
+            1646245189534,
+            1646245196314,
+            6780
+          ],
+          "itemStyle": {
+            "color": "#72b362"
+          }
+        },
+        {
+          "name": "GPU Memory",
+          "value": [
+            2,
+            1646245197415,
+            1646245199768,
+            2353
+          ],
+          "itemStyle": {
+            "color": "#dc77dc"
+          }
+        },
+        {
+          "name": "Nodes",
+          "value": [
+            2,
+            1646245200654,
+            1646245208483,
+            7829
+          ],
+          "itemStyle": {
+            "color": "#75d874"
+          }
+        },
+        {
+          "name": "Nodes",
+          "value": [
+            2,
+            1646245209105,
+            1646245209390,
+            285
+          ],
+          "itemStyle": {
+            "color": "#75d874"
+          }
+        },
+        {
+          "name": "Documents",
+          "value": [
+            2,
+            1646245211169,
+            1646245213210,
+            2041
+          ],
+          "itemStyle": {
+            "color": "#bd6d6c"
+          }
+        }
+      ],
+      "progressive": 100000,
+      "animation": false,
+      "coordinateSystem": "cartesian2d",
+      "z": 2,
+      "legendHoverLink": true,
+      "clip": false,
+      "label": {},
+      "emphasis": {
+        "label": {}
+      }
+    }
+  ],
+  "visualMap": [],
+  "legend": [],
+  "markArea": [],
+  "markLine": [],
+  "markPoint": [],
+  "brush": [],
+  "dataZoom": [
+    {
+      "type": "slider",
+      "filterMode": "weakFilter",
+      "showDataShadow": false,
+      "top": 400,
+      "labelFormatter": "",
+      "borderColor": "#71708A",
+      "textStyle": {
+        "color": "#B9B8CE"
+      },
+      "brushStyle": {
+        "color": "rgba(135,163,206,0.3)"
+      },
+      "handleStyle": {
+        "color": "#353450",
+        "borderColor": "#C5CBE3"
+      },
+      "moveHandleStyle": {
+        "color": "#B0B6C3",
+        "opacity": 0.3
+      },
+      "fillerColor": "rgba(135,163,206,0.2)",
+      "emphasis": {
+        "handleStyle": {
+          "borderColor": "#91B7F2",
+          "color": "#4D587D"
+        },
+        "moveHandleStyle": {
+          "color": "#636D9A",
+          "opacity": 0.7
+        }
+      },
+      "dataBackground": {
+        "lineStyle": {
+          "color": "#71708A",
+          "width": 1
+        },
+        "areaStyle": {
+          "color": "#71708A",
+          "opacity": 0.2
+        }
+      },
+      "selectedDataBackground": {
+        "lineStyle": {
+          "color": "#87A3CE",
+          "width": 0.5
+        },
+        "areaStyle": {
+          "color": "#87A3CE",
+          "opacity": 0.2
+        }
+      },
+      "z": 4,
+      "start": 0,
+      "end": 100,
+      "show": true,
+      "right": "ph",
+      "width": "ph",
+      "height": "ph",
+      "left": null,
+      "bottom": null,
+      "borderRadius": 3,
+      "backgroundColor": "rgba(47,69,84,0)",
+      "handleIcon": "path://M-9.35,34.56V42m0-40V9.5m-2,0h4a2,2,0,0,1,2,2v21a2,2,0,0,1-2,2h-4a2,2,0,0,1-2-2v-21A2,2,0,0,1-11.35,9.5Z",
+      "handleSize": "100%",
+      "moveHandleSize": 7,
+      "moveHandleIcon": "path://M-320.9-50L-320.9-50c18.1,0,27.1,9,27.1,27.1V85.7c0,18.1-9,27.1-27.1,27.1l0,0c-18.1,0-27.1-9-27.1-27.1V-22.9C-348-41-339-50-320.9-50z M-212.3-50L-212.3-50c18.1,0,27.1,9,27.1,27.1V85.7c0,18.1-9,27.1-27.1,27.1l0,0c-18.1,0-27.1-9-27.1-27.1V-22.9C-239.4-41-230.4-50-212.3-50z M-103.7-50L-103.7-50c18.1,0,27.1,9,27.1,27.1V85.7c0,18.1-9,27.1-27.1,27.1l0,0c-18.1,0-27.1-9-27.1-27.1V-22.9C-130.9-41-121.8-50-103.7-50z",
+      "showDetail": true,
+      "realtime": true,
+      "zoomLock": false,
+      "brushSelect": true,
+      "throttle": 20,
+      "startValue": 1646245150130,
+      "endValue": 1646245213210
+    },
+    {
+      "type": "inside",
+      "filterMode": "weakFilter",
+      "borderColor": "#71708A",
+      "textStyle": {
+        "color": "#B9B8CE"
+      },
+      "brushStyle": {
+        "color": "rgba(135,163,206,0.3)"
+      },
+      "handleStyle": {
+        "color": "#353450",
+        "borderColor": "#C5CBE3"
+      },
+      "moveHandleStyle": {
+        "color": "#B0B6C3",
+        "opacity": 0.3
+      },
+      "fillerColor": "rgba(135,163,206,0.2)",
+      "emphasis": {
+        "handleStyle": {
+          "borderColor": "#91B7F2",
+          "color": "#4D587D"
+        },
+        "moveHandleStyle": {
+          "color": "#636D9A",
+          "opacity": 0.7
+        }
+      },
+      "dataBackground": {
+        "lineStyle": {
+          "color": "#71708A",
+          "width": 1
+        },
+        "areaStyle": {
+          "color": "#71708A"
+        }
+      },
+      "selectedDataBackground": {
+        "lineStyle": {
+          "color": "#87A3CE"
+        },
+        "areaStyle": {
+          "color": "#87A3CE"
+        }
+      },
+      "z": 4,
+      "start": 0,
+      "end": 100,
+      "disabled": false,
+      "zoomLock": false,
+      "zoomOnMouseWheel": true,
+      "moveOnMouseMove": true,
+      "moveOnMouseWheel": false,
+      "preventDefaultMouseMove": true,
+      "throttle": 20,
+      "startValue": 1646245150130,
+      "endValue": 1646245213210
+    }
+  ]
+}
